@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/junior5783/PoC-ConfigurationServer.git
+          uri: https://github.com/junior5783/poc-spring-cloud-config-repository.git
 server:
   port: 8888
