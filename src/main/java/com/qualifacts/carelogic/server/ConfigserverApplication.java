@@ -1,4 +1,4 @@
-package com.rpicloud;
+package com.qualifacts.carelogic.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
